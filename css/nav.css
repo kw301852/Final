@@ -1,0 +1,57 @@
+
+/* This is my nav bar */
+.navClass {
+  list-style-type: none;
+  margin: 00;
+  padding:40;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.nav {
+  float: left;
+}
+
+.nav a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: #111;
+}
+
+/* This is my Font and Size Tags */
+h1{
+   text-align: center;
+}
+p{
+  text-align: center;
+  font-size: 30px;
+}
+ul{  text-align: center;
+  font-size: 30px;}
+.rightDiv{
+  margin: auto;
+  width: 40%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+  float: left;
+}
+.leftDiv{
+  margin: auto;
+  width: 40%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+  float: right;
+}
+.nav .navClass{
+  text-align: center;
+}
+/* this is my background color */
+body {
+  background-color: grey;
+}
